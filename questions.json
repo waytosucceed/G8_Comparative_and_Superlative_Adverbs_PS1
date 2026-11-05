@@ -1,0 +1,152 @@
+{
+  "heading": "G8_Comparative and Superlative Adverbs",
+  "topics": [
+    {
+      "heading": "Comparative and Superlative Adverbs",
+      "questions": [
+
+  
+  {
+    "questionNo": 1,
+    "question": [
+      "Choose the correct superlative adverb to complete the sentence.",
+      "<br><b><i>Out of all the contestants, Jordan reacted ______ to the sudden changes in the challenge.</i></b>"
+    ],
+    "options": [
+      { "text": "fastly" },
+      { "text": "most fast" },
+      { "text": "fastest" },
+      { "text": "more fast" }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 2,
+    "question": [
+      "Which sentence uses the <u>comparative adverb incorrectly?</u>"
+    ],
+    "options": [
+      { "text": "The choir sang more harmoniously than last year." },
+      { "text": "He drove more fast than his brother." },
+      { "text": "She painted more carefully than usual." },
+      { "text": "I responded more calmly during the second debate." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 3,
+    "question": [
+      "Fill in the blank with the correct superlative adverb.",
+      "<br><b><i>Of all the essays submitted, hers was argued the ______ and earned the highest mark.</i></b>"
+    ],
+    "options": [
+      { "text": "best" },
+      { "text": "most well" },
+      { "text": "better" },
+      { "text": "goodest" }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 4,
+    "question": [
+      "Which sentence correctly uses a <b>mitigator with a comparative adverb?</b>"
+    ],
+    "options": [
+      { "text": "The players performed far more aggressively in the second half." },
+      { "text": "She answered most quietly of all the students." },
+      { "text": "He played a little less slowly than others." },
+      { "text": "He spoke always truthfully and directly." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 5,
+    "question": [
+      "Which of the following <b>adverbs is non-gradable</b> and <b>cannot be intensified or mitigated?</b>"
+    ],
+    "options": [
+      { "text": "carefully" },
+      { "text": "seldom" },
+      { "text": "slowly" },
+      { "text": "quickly" }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 6,
+    "question": [
+      "Which sentence <b>uses an intensifier incorrectly</b> with a comparative adverb?"
+    ],
+    "options": [
+      { "text": "The new recruits performed far better than expected." },
+      { "text": "She responded much more professionally in this meeting." },
+      { "text": "They arrived very earlier than the scheduled time." },
+      { "text": "His explanation was slightly clearer than before." }
+    ],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": [
+      "Choose the option that correctly completes the sentence using a comparative adverb.",
+      "<br><b><i>To secure her place in the finals, Chloe danced ______ than any of her previous performances.</i></b>"
+    ],
+    "options": [
+      { "text": "graceful" },
+      { "text": "most gracefully" },
+      { "text": "gracefuller" },
+      { "text": "more gracefully" }
+    ],
+    "answer": 3
+  },
+  {
+    "questionNo": 8,
+    "question": [
+      "Which sentence uses the <b>correct superlative adverb?</b>"
+    ],
+    "options": [
+      { "text": "Of all the paintings, his was completed most fastest." },
+      { "text": "Among the writers, she submitted the essay most carefully." },
+      { "text": "He replied most better when asked again." },
+      { "text": "Of the options, this one performed goodest." }
+    ],
+    "answer": 1
+  },
+  {
+    "questionNo": 9,
+    "question": [
+      "Identify the sentence with <b>an incorrect adverb form.</b>"
+    ],
+    "options": [
+      { "text": "He responded gooder after the feedback session." },
+      { "text": "She handled the task best among all team members." },
+      { "text": "They worked harder than ever to meet the deadline." },
+      { "text": "I slept worse on the second night than the first." }
+    ],
+    "answer": 0
+  },
+  {
+    "questionNo": 10,
+    "question": [
+      "Which option contains a positive, comparative, and superlative adverb in correct order?"
+    ],
+    "options": [
+      { "text": "Loudly, most loudly, more loudly" },
+      { "text": "Quickly, quicker, quickest" },
+      { "text": "Well, better, best" },
+      { "text": "Early, earliest, earlier" }
+    ],
+    "answer": 2
+  }
+
+
+
+]
+
+
+
+
+    }
+  ]
+}
